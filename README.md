@@ -1,5 +1,8 @@
 # Hikmah cards feed
 
+- `feed.json`: PRODUCTION (real players). Only Chisom or Dailydose change it.
+- `feed-staging.json`: the staging app. Safe to experiment.
+
 The Hikmah app downloads `feed.json` when it has internet (at most every 3 hours) and keeps it on the phone.
 
 - `hijriOffset`: whole days (-2 to 2) added before working out the Hijri date. Use it when the moon is sighted

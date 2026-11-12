@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updated": "2026-11-12",
+  "hijriOffset": 0,
+  "cards": [
+    {
+      "date": "2026-11-12",
+      "en": {
+        "t": "Staging test card",
+        "x": "If you can read this, the staging app downloaded its cards file.",
+        "s": "Hikmah staging"
+      },
+      "ar": {
+        "t": "بطاقة تجربة",
+        "x": "إذا قرأت هذا فقد نزّل تطبيق التجربة ملف البطاقات.",
+        "s": "حكمة - تجربة"
+      }
+    }
+  ]
+}
